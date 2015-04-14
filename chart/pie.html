@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <!-- saved from url=(0049)http://localhost:50289/untitled10/chart/pie0.html -->
-<html>
-<head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="content-type" content="text/html" charset="utf-8">
     <script src="sources/jquery.min.js"></script>
     <script src="sources/highcharts.js"></script>
@@ -10,17 +8,18 @@
     <script src="sources/operation.js"></script>
     <script>
         var dataY = new Array(1, 2, 3, 4, 5, 6);
-        //数组求和
+        //数组求和，据说比累加求和性能高
         var sum = eval(dataY.join('+'));
         var percent = new Array();
         var size = dataY.length;
-        for (var i = 0; i < size - 1; i++) {
-            var temp = dataY[i] / sum;
+        for (var i = 0; i < size - 1 ; i++) {
+            var temp =dataY[i] / sum;
             var t = temp.toFixed(4);
-            percent[i] = accMul(t, 100);
+            percent[i] = accMul(t,100);
         }
-        percent[size - 1] = accSub(100, eval(percent.join('+')));
-        //自定义对象（类似于结构体）
+        percent[size - 1] = accSub(100 , eval(percent.join('+')));
+        //var data = new Array({name:'hello',y:1},{name:'world',y:2},{name:'wking',y:3},{name:'shi',y:3});
+
         function myArray(name, y) {
             this.name = name;
             this.y = y;
@@ -55,12 +54,9 @@
                 ]
             });
         });
-       </script>
-    </head>
+    </script>
+</head>
 <body>
-<div id="container" style="height: 400px"></div>
+<div id="container" style="height: 400px" ></div>
 </body>
 </html>
-
-
-    
