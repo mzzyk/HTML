@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d0cc44c-31fb-4dcb-81a1-497131f68452" name="Default" comment="" />
+    <list default="true" id="0d0cc44c-31fb-4dcb-81a1-497131f68452" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="untitled10.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,7 +70,7 @@
       <file leaf-file-name="pie.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chart/pie.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="24" selection-start="1372" selection-end="1372" vertical-scroll-proportion="0.93406594" vertical-offset="450" max-vertical-offset="1980">
+            <state line="23" column="35" selection-start="940" selection-end="940" vertical-scroll-proportion="0.43956044" vertical-offset="450" max-vertical-offset="1980">
               <folding>
                 <element signature="e#1076#1246#0" expanded="false" />
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -82,6 +85,14 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -105,7 +116,7 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -620,12 +631,12 @@
       <updated>1428457922283</updated>
       <workItem from="1428457923716" duration="16658000" />
       <workItem from="1428914548315" duration="12216000" />
-      <workItem from="1428975932124" duration="5174000" />
+      <workItem from="1428975932124" duration="6359000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34048000" />
+    <option name="totallyTimeSpent" value="35233000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -778,7 +789,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chart/pie.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="24" selection-start="1372" selection-end="1372" vertical-scroll-proportion="0.93406594" vertical-offset="450" max-vertical-offset="1980">
+        <state line="23" column="35" selection-start="940" selection-end="940" vertical-scroll-proportion="0.43956044" vertical-offset="450" max-vertical-offset="1980">
           <folding>
             <element signature="e#1076#1246#0" expanded="false" />
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
