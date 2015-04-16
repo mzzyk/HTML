@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d0cc44c-31fb-4dcb-81a1-497131f68452" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chart/pie.html" afterPath="$PROJECT_DIR$/chart/pie.html" />
+      <change type="DELETED" beforePath="F:\HTML\untitled10\html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/map/localizing.html" afterPath="$PROJECT_DIR$/map/localizing.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="untitled10.iws" />
@@ -67,13 +68,49 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pie.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pie.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chart/pie.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="15" selection-start="2064" selection-end="2064" vertical-scroll-proportion="1.2767527" vertical-offset="1138" max-vertical-offset="2310">
+            <state line="56" column="42" selection-start="1946" selection-end="1946" vertical-scroll-proportion="-4.6666665" vertical-offset="1498" max-vertical-offset="2400">
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="localizing.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/map/localizing.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="102" selection-start="487" selection-end="511" vertical-scroll-proportion="-6.923077" vertical-offset="0" max-vertical-offset="1590">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="translate.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/map/translate.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="41" column="30" selection-start="1431" selection-end="1431" vertical-scroll-proportion="0.4044665" vertical-offset="1067" max-vertical-offset="1680">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="apiv1.3.min.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/map/apiv1.3.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="32" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="135270">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Map.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/map/Map.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="27" selection-start="508" selection-end="508" vertical-scroll-proportion="-1.051282" vertical-offset="289" max-vertical-offset="1350">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -97,7 +134,6 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/map/Map.html" />
-        <option value="$PROJECT_DIR$/map/localizing.html" />
         <option value="$PROJECT_DIR$/chart/sources/jscharts.js" />
         <option value="$PROJECT_DIR$/chart/index0.html" />
         <option value="$PROJECT_DIR$/chart/index.html" />
@@ -106,6 +142,9 @@
         <option value="$PROJECT_DIR$/chart/pie0.html" />
         <option value="$PROJECT_DIR$/chart/sources/operation.js" />
         <option value="$PROJECT_DIR$/chart/pie.html" />
+        <option value="$PROJECT_DIR$/map/apiv1.3.min.js" />
+        <option value="$PROJECT_DIR$/map/localizing.html" />
+        <option value="$PROJECT_DIR$/map/translate.html" />
       </list>
     </option>
   </component>
@@ -123,7 +162,7 @@
     <OptionsSetting value="true" id="Edit" />
     <OptionsSetting value="true" id="Undo Check Out" />
     <OptionsSetting value="true" id="Get Latest Version" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -143,7 +182,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -176,40 +214,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled10" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled10" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chart" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled10" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled10" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chart" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -235,6 +242,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\HTML\untitled10\map" />
       <recent name="F:\HTML\untitled10\chart\sources" />
       <recent name="F:\HTML\untitled10\chart" />
     </key>
@@ -629,7 +637,8 @@
       <updated>1428457922283</updated>
       <workItem from="1428457923716" duration="16658000" />
       <workItem from="1428914548315" duration="12216000" />
-      <workItem from="1428975932124" duration="12933000" />
+      <workItem from="1428975932124" duration="14398000" />
+      <workItem from="1429149656675" duration="4727000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit&#10;">
       <created>1428986706374</created>
@@ -639,7 +648,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41807000" />
+    <option name="totallyTimeSpent" value="47999000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -663,34 +672,34 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1382" height="744" extended-state="1" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0065252855" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0065252855" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16639479" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0065252855" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16639479" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.042414356" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19969743" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1580938" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -716,6 +725,15 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/chart/pie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="42" selection-start="1946" selection-end="1946" vertical-scroll-proportion="0.0" vertical-offset="1498" max-vertical-offset="2400">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chart/sources/highcharts.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="320" column="24" selection-start="11725" selection-end="12159" vertical-scroll-proportion="0.0" vertical-offset="9188" max-vertical-offset="130800">
@@ -740,47 +758,23 @@
     <entry file="file://$PROJECT_DIR$/map/localizing.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="32" selection-start="989" selection-end="989" vertical-scroll-proportion="0.0" vertical-offset="810" max-vertical-offset="1560">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/map/Map.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="22" selection-start="1026" selection-end="1036" vertical-scroll-proportion="-7.6923075" vertical-offset="630" max-vertical-offset="1350">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/map/localizing.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="0" selection-start="1210" selection-end="1211" vertical-scroll-proportion="-6.1538463" vertical-offset="810" max-vertical-offset="1560">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chart/sources/jscharts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="52" selection-start="494" selection-end="494" vertical-scroll-proportion="0.36" vertical-offset="0" max-vertical-offset="1170">
-          <folding />
-        </state>
+        <state line="6" column="52" selection-start="494" selection-end="494" vertical-scroll-proportion="0.36" vertical-offset="0" max-vertical-offset="1170" />
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/HTML5.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1007" column="28" selection-start="16038" selection-end="16038" vertical-scroll-proportion="0.332" vertical-offset="30044" max-vertical-offset="65490">
-          <folding />
-        </state>
+        <state line="1007" column="28" selection-start="16038" selection-end="16038" vertical-scroll-proportion="0.332" vertical-offset="30044" max-vertical-offset="65490" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chart/Chart.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="778" column="40" selection-start="23371" selection-end="23371" vertical-scroll-proportion="0.0" vertical-offset="23294" max-vertical-offset="43680">
-          <folding />
-        </state>
+        <state line="778" column="40" selection-start="23371" selection-end="23371" vertical-scroll-proportion="0.0" vertical-offset="23294" max-vertical-offset="43680" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chart/sources/highcharts-3d.js">
@@ -799,26 +793,48 @@
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="614" column="23" selection-start="9478" selection-end="9478" vertical-scroll-proportion="0.50877196" vertical-offset="18159" max-vertical-offset="28110">
-          <folding />
-        </state>
+        <state line="614" column="23" selection-start="9478" selection-end="9478" vertical-scroll-proportion="0.50877196" vertical-offset="18159" max-vertical-offset="28110" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chart/sources/operation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="1" selection-start="237" selection-end="237" vertical-scroll-proportion="0.42" vertical-offset="0" max-vertical-offset="1860">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
+        <state line="7" column="1" selection-start="237" selection-end="237" vertical-scroll-proportion="0.42" vertical-offset="0" max-vertical-offset="1860" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chart/pie.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="15" selection-start="2064" selection-end="2064" vertical-scroll-proportion="1.2767527" vertical-offset="1138" max-vertical-offset="2310">
+        <state line="56" column="42" selection-start="1946" selection-end="1946" vertical-scroll-proportion="-4.6666665" vertical-offset="1498" max-vertical-offset="2400">
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/map/apiv1.3.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="32" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="135270">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/map/localizing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="102" selection-start="487" selection-end="511" vertical-scroll-proportion="-6.923077" vertical-offset="0" max-vertical-offset="1590">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/map/Map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="27" selection-start="508" selection-end="508" vertical-scroll-proportion="-1.051282" vertical-offset="289" max-vertical-offset="1350">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/map/translate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="30" selection-start="1431" selection-end="1431" vertical-scroll-proportion="0.4044665" vertical-offset="1067" max-vertical-offset="1680">
+          <folding />
         </state>
       </provider>
     </entry>
