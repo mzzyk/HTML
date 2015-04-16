@@ -6,6 +6,7 @@
         body, html{width: 100%;height: 100%;margin:0;font-family:"微软雅黑";font-size:14px;}
         #allmap {width:100%;height:500px;}
     </style>
+    <!--<script type="text/javascript" src="apiv1.3.min.js"></script>-->
     <script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=or4cWdqg6OXlnp5t0mOjNHAp"></script>
     <title>逆地址解析</title>
 </head>
@@ -34,12 +35,12 @@
         map.addOverlay(marker);
 
 
-        // alert(e.point.location.lat);
-//        geoc.getLocation(pt, function(rs){
-//            var addComp = rs.addressComponents;
-//            alert(addComp.province + ", " + addComp.city + ", " + addComp.district + ", "
-//                    + addComp.street + ", " + addComp.streetNumber);
-//        });
+         alert(pt.lng+ " " +pt.lat);
+        geoc.getLocation(pt, function(rs){
+            var addComp = rs.addressComponents;
+            alert(addComp.province + ", " + addComp.city + ", " + addComp.district + ", "
+                    + addComp.street + ", " + addComp.streetNumber);
+        });
     });
 
 
